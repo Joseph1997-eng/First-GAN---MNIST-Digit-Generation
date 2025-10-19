@@ -2,7 +2,7 @@
 
 This project is a Jupyter Notebook that guides you through building and training your first Generative Adversarial Network (GAN). The goal is to create a GAN that can generate handwritten images of digits (0-9) based on the MNIST dataset. This project is built using PyTorch.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joseph1997-eng/First-GAN---MNIST-Digit-Generation/blob/main/YourNotebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joseph1997-eng/First-GAN---MNIST-Digit-Generation/blob/main/Your_First_GAN.ipynb)
 
 
 ## Learning Objectives
